@@ -1,0 +1,52 @@
+.theme-vikinger {
+  --main-bm-color: var(--color-text-rgb);
+
+  --bm-text-color: var(--color-text-rgb);
+  --bm-placeholder: var(--color-text-rgb);
+
+  --bm-bg-color: var(--color-box-background-rgb);
+  --bm-bg-secondary: var(--color-box-background-alt-rgb);
+
+  --bm-border-color: var(--color-divider-rgb);
+  --bm-border-secondary-color: var(--color-divider-rgb);
+  
+  --bm-hover-bg: var(--color-box-hover-background-rgb);
+
+  --bm-mention-bg: var(--color-box-hover-background-rgb);
+  --bm-mention-color: var(--color-text-rgb);
+
+  --bm-sticky-date-bg: #3e3f5e;
+  --bm-sticky-date-color: #ffffff;
+
+  --bm-tooltip-bg: 62, 63, 94;
+  --bm-tooltip-color: 255, 255, 255;
+
+  --left-message-nickname-color: var(--color-text-rgb);
+  --left-message-text-color: var(--color-text-rgb);
+  --left-message-bg-color: var(--color-box-hover-background-rgb);
+
+  --right-message-nickname-color: var(--color-text-rgb);
+  --right-message-text-color: 255, 255, 255;
+  --right-message-bg-color: var(--color-secondary-rgb);
+}
+
+.bp-messages-wrap .threads-list .thread .unread-count {
+  color: #ffffff;
+  background: var(--color-secondary);
+}
+
+.bm-tooltip,
+.bp-messages-wrap .bm-messages-list .bm-list .bm-sticky-date,
+.bp-messages-wrap .bm-messages-list .bm-list .bm-conversation-start {
+  opacity: 1;
+}
+
+.bp-messages-wrap button {
+  color: var(--color-text) !important;
+  background: var(--color-box-background) !important;
+}
+
+.contexify_item:not(.contexify_item-disabled):hover>.contexify_itemContent, .contexify_item:not(.contexify_item-disabled):focus>.contexify_itemContent {
+  color: var(--color-text);
+  background-color: var(--color-box-hover-background);
+}
