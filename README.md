@@ -227,17 +227,3 @@ Choose a license that matches distribution intent. Example placeholder:
 ```
 © YYYY Your Name / Company — Commercial use may be restricted. Replace with the license you intend to use (MIT, GPLv2, Proprietary).
 ```
-
----
-
-### Final notes — ship with confidence
-
-1. Publish a 1-minute demo video showing sign-up → first post → badge earned — this converts clients faster than long docs.
-2. Start with a lightweight rewards plan (3 badges, daily login points, leaderboard) and expand based on measured behavior.
-3. Provide a “Community Playbook” PDF for clients: launch checklist, moderation SOP, and initial engagement ideas (welcome campaign, first-week challenges).
-
-If you want, I can now:
-
-* generate a professional `DEPLOYMENT.md` for staging & production steps,
-* create a one-page “Community Launch” checklist tailored to Vikinger, or
-* scaffold a child theme starter with WP hooks and demo REST endpoints.
