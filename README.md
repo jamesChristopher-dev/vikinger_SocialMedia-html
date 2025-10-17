@@ -212,11 +212,10 @@ wp import demo/content.xml --authors=create
 
 ## Contact & attribution
 
-**Author / Maintainer:** Your Name
+**Author / Maintainer:** James Christopher
 
-* GitHub: `https://github.com/your-username`
-* Email: `your.email@example.com`
-  *(Replace placeholders before publishing. Add company website or portfolio if available.)*
+* GitHub: `https://github.com/jamesChristopher-dev`
+* Email: `jameschristopher.contact@gmail.com`
 
 ---
 
